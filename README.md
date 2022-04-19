@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/NOGDEV/powerPlatformALM/_apis/build/status/IngDanielR.pipelinesLearning?branchName=master)](https://dev.azure.com/NOGDEV/powerPlatformALM/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
